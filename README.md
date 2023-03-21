@@ -2,7 +2,7 @@
 
 - Cloner le référentiel :
 ```shell
-git clone git@github.com:juanluck/lampDocker.git
+git clone git@github.com:abderzah/lampDocker.git
 ```
 
 - Aller au répositoire :
